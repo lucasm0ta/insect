@@ -22,7 +22,7 @@ desejado. Nele será criado pastas secundárias para cada categoria de inseto.
 * Espere pois demora uns *15min* para baixar todas. :)
 
 * *Caso deseje, altere também a resolução de saida dentre as possíveis. A padrão é **768x512**.
- Também é possível alterar o numero de imagens requeridas por requisição.*
+ Também é possível alterar o numero de imagens por requisição.*
  
 
 
